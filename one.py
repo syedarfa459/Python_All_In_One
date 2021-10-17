@@ -1,16 +1,19 @@
                                                 #loops
+                                                #PROGRAM # 01
 
 # starti = int(input("Enter the start you want for the loop: "))
 # endi = int(input("Enter the end you want for the loop: "))
 # for i in range(starti,endi,2):
 #     print(i)
                                                 #lists
+                                                #PROGRAM # 02
 
 # mylist = ['arfa','rafay','afraz','saad','sameed','irtiza','munhib']
 # for name in mylist:
 #     print(name)
 
                                                 #nested list
+                                                #PROGRAM # 03
 
 # mylist = [['arfa','rafay','afraz'],['saad','sameed'],['irtiza','munhib']]
 
@@ -21,12 +24,15 @@
 #         print(names.index(name))
 
                                                 #tuple(immutable)
+                                                #PROGRAM # 04
 
 # tup1 = ('C++', 'Java','Python')
 # for item in tup1:
 #     print(item)
 
                                                 #strings
+                                                #PROGRAM # 05
+
 # mystr = '''this is me, Arfa
 # a software engineer from UET'''
 
@@ -43,6 +49,7 @@
 
 
                                                 #functions
+                                                #PROGRAM # 06
 
 #fn to calculate no of chrs in string
 
@@ -53,6 +60,7 @@
 #     print("The number of characters in your string are: ", count)
 # calcChars("HelloSyed")
 
+                                                #PROGRAM # 07
 #fn to calculate no of items in list and sub list
 
 # def calcListItem(ls):
@@ -69,6 +77,7 @@
 # calcListItem([['arfa','rafay','afraz'],['saad','sameed'],['irtiza','munhib']])
 
                                                 #dictionary
+                                                #PROGRAM # 08
 
 # mydict = {'farrukh':('arfa','rafay','afraz'), 'jaffer':('irtiza','munhib'), 'shoaib':('saad','sameed')}
 # # print('Sons of Farrukh: ', mydict.get('farrukh'))
@@ -79,6 +88,7 @@
 #     print(name)
 
                                                 #working with external files
+                                                #PROGRAM # 09
 
 #writing content to a text file
 # myfile = open('Arfa.txt', 'wb') #wb stands for writing mode
@@ -100,6 +110,8 @@
 
 
                                                 #object oriented programming
+                                                #PROGRAM # 10
+
 #double underscore shows member variable as a private variable which cant be accessed outside the class
 # class Student:
 #     __name = None
@@ -141,6 +153,7 @@
 # print(staticobj.mystatic())
 
                                                 #Single Inheritance
+                                                #PROGRAM # 11
 
 # class University:
 #     __name = None
@@ -175,6 +188,7 @@
 # sec_obj.getUniDetails()
 
                                                 #Multiple Inheritance
+                                                #PROGRAM # 12
 
 #A Programmer can be a student as well as gamer at the same time 
 # class Student:
